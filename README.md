@@ -8,7 +8,7 @@
 
 🚀 **User-Friendly Interface:** Our intuitive and user-friendly interface makes it easy for users to navigate and explore various career options.
 
-🎯 **Career Assessment:** Take our comprehensive career assessment to discover your strengths, interests, and potential career paths tailored to your unique profile.
+🎯 **Career Assessment:** Take our comprehensive career assessment to discover your strengths, interests, and potential career paths to your unique profile.
 
 🔍 **Explore Careers:** Dive into a vast database of careers, each accompanied by detailed information.
 
