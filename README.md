@@ -26,12 +26,12 @@
 
 📖 Explore our website on : https://livevisionug.netlify.app/ and to get started with setting up the CareerGuidance website locally on your machine.
 Clone these repositories:
-'''
+```
 https://github.com/SecurCrew/Home
 https://github.com/SecurCrew/10-Career
 https://github.com/SecurCrew/12-Career
 https://github.com/SecurCrew/UG-Career
-'''
+```
 
 ## Contributing:
 
