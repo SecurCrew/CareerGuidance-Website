@@ -39,8 +39,8 @@ https://github.com/SecurCrew/UG-Career
 
 ## Issues and Support:
 
-👉 If you encounter any issues or have suggestions for improvement, please open an issue on the https://github.com/0dayhunter/CareerGuidance-Website.
+👉 If you encounter any issues or have suggestions for improvement, please open an issue on the https://github.com/SecurCrew/CareerGuidance-Website
 
-📧 For additional support, feel free to reach out to securcrewofficial@gmail.com
+📧 For additional support, feel free to reach out!
 
 Join us in shaping the future of career website exploration and guidance. Let's empower individuals to make informed decisions and thrive in their chosen professions!
