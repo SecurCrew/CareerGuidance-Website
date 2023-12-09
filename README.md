@@ -10,7 +10,7 @@
 
 🎯 **Career Assessment:** Take our comprehensive career assessment to discover your strengths, interests, and potential career paths tailored to your unique profile.
 
-🔍 **Explore Careers:** Dive into a vast database of careers, each accompanied by detailed information, salary expectations, and required skills.
+🔍 **Explore Careers:** Dive into a vast database of careers, each accompanied by detailed information,and required skills.
 
 📚 **Educational Resources:** Access a curated collection of educational resources, including articles, videos, and courses, to enhance your knowledge and skills in your chosen field.
 
@@ -39,7 +39,7 @@ https://github.com/SecurCrew/UG-Career
 
 ## Issues and Support:
 
-👉 If you encounter any issues or have suggestions for improvement, please open an issue on the https://github.com/SecurCrew/CareerGuidance-Website.
+👉 If you encounter any issues or have suggestions for improvement, please open an issue on the https://github.com/0dayhunter/CareerGuidance-Website.
 
 📧 For additional support, feel free to reach out to securcrewofficial@gmail.com
 
