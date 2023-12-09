@@ -10,7 +10,7 @@
 
 🎯 **Career Assessment:** Take our comprehensive career assessment to discover your strengths, interests, and potential career paths tailored to your unique profile.
 
-🔍 **Explore Careers:** Dive into a vast database of careers, each accompanied by detailed information,and required skills.
+🔍 **Explore Careers:** Dive into a vast database of careers, each accompanied by detailed information.
 
 📚 **Educational Resources:** Access a curated collection of educational resources, including articles, videos, and courses, to enhance your knowledge and skills in your chosen field.
 
