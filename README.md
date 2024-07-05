@@ -1,4 +1,4 @@
-# CareerGuidance Website
+# CareerGuidance Website:
 
 🌐 Welcome to CareerGuidance, your one-stop destination for career exploration and guidance. This web application is designed to empower individuals in making informed decisions about their professional journey.
 
